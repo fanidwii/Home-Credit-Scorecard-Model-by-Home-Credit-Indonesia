@@ -59,4 +59,4 @@ We compared several models focusing on **Recall** (ability to detect defaulters)
 - `requirements.txt`: List of libraries used.
 
 ---
-*Created by [Nama Anda] - 2024*
+*Created by [Fani_Dwi] - 2026*
